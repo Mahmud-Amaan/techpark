@@ -1,9 +1,8 @@
 "use client";
 
-import React from "react";
 import { useParams, useRouter } from "next/navigation";
 import { motion } from "framer-motion";
-import { ArrowLeft, BookOpen, MessageSquare, Target, Trophy, HelpCircle, ChevronRight, AlertCircle, Users, Sparkles, Calendar } from "lucide-react";
+import { ArrowLeft, BookOpen, MessageSquare, Target, Trophy, HelpCircle, ChevronRight, AlertCircle, Users, Sparkles, Calendar, CheckCircle2 } from "lucide-react";
 import { curriculumData } from "@/lib/curriculumData";
 import { cn } from "@/lib/utils";
 import Link from "next/link";

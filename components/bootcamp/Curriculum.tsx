@@ -1,8 +1,7 @@
 "use client";
 
-import React from "react";
 import { motion } from "framer-motion";
-import { ArrowRight, Calendar, CheckCircle2 } from "lucide-react";
+import { ArrowRight, Calendar } from "lucide-react";
 import { cn } from "@/lib/utils";
 import Link from "next/link";
 
