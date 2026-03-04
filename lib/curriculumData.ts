@@ -755,5 +755,89 @@ export const curriculumData: Record<number, CurriculumDay> = {
                 "Motivation grows from progress and feeling capable."
             ]
         }
+    },
+    10: {
+        day: 10,
+        title: "MASTER-LEVEL CLASSROOM LEADERSHIP",
+        tagline: "Becoming the Teacher Students Respect for Years",
+        dialogue: {
+            situation: "A Student Tests You at the End of the Year",
+            context: [
+                "Near end of term. Students are comfortable.",
+                "Zayan says jokingly: 'Sir, you were strict at first, but now you’re soft.'",
+                "This is subtle testing, not rebellion. An influence check."
+            ],
+            script: [
+                { role: "Teacher", text: "(Smiles slightly, pauses)" },
+                { role: "Teacher", text: "I didn’t become soft.", note: "calm voice" },
+                { role: "Teacher", text: "I trust you more." },
+                { role: "Teacher", text: "(Silence, allowing them to process)" },
+                { role: "Teacher", text: "(Continues lesson normally)", note: "no defense, no ego" }
+            ],
+            takeaways: [
+                "Do not react to status tests.",
+                "Reframe comments into growth and trust.",
+                "Show emotional maturity.",
+                "Signal unshakeable confidence.",
+                "Authority without insecurity is master-level."
+            ]
+        },
+        caseStudy: {
+            title: "Long-Term Respect Built Over a Year",
+            situation: "A noisy, sarcastic class transformed into a self-regulating culture.",
+            narrative: [
+                "Beginning: Chaos, sarcasm, incomplete work.",
+                "Process: Implemented routines, calm corrections, and private accountability.",
+                "Outcome: Final week, students are seated and ready before you even enter."
+            ],
+            resolution: [
+                "Maintain emotional consistency regardless of the situation.",
+                "Avoid public humiliation; use private accountability instead.",
+                "Design systems that control themselves (routines, signals).",
+                "Focus on earned respect over demanded compliance.",
+                "The culture now operates automatically even in your absence."
+            ],
+            results: [
+                "Emotional discipline creates a safe room",
+                "Predictable systems reduce teacher and student stress",
+                "Fairness and stability build long-term trust",
+                "Reputation is earned, not announced"
+            ]
+        },
+        homework: {
+            title: "Your Reputation Is Now Established",
+            situation: [
+                "Assigned a new class next year. They've heard: 'He's strict but fair.'",
+                "First day, students enter quietly, but some want to test the reputation.",
+                "One student whispers: 'Let's see if he's really like they say.'"
+            ],
+            prompts: [
+                "What are your first five sentences to this new class?",
+                "How do you handle the very first minor correction of the year?",
+                "How do you prevent 'ego' from entering your leadership?",
+                "How do you sustain this level of stability for an entire year?"
+            ],
+            tasks: [
+                "Write your first-day behavioral strategy and dialogue.",
+                "Design a culture reinforcement plan for the first 30 days.",
+                "Create a reflection system for your own emotional regulation.",
+                "Draft a short expectations speech that builds trust, not fear."
+            ]
+        },
+        bonus: {
+            situation: "Final Message: Classroom Mastery",
+            response: "Classroom mastery is about emotional discipline and predictable systems. Students may forget the lesson, but they never forget how the room felt."
+        },
+        coreMessage: {
+            title: "Day 10 Mastery Principles",
+            points: [
+                "Respect is earned through consistency.",
+                "Calmness builds credibility; Ego destroys it.",
+                "Stability builds security for students.",
+                "Influence lasts much longer than fear.",
+                "Strong teachers stay students of their craft.",
+                "If the room feels Safe, Fair, and Calm, you have succeeded."
+            ]
+        }
     }
 };

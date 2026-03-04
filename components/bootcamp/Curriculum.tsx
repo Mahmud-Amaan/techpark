@@ -72,9 +72,9 @@ const curriculum = [
     },
     {
         day: 10,
-        title: "Assessment & Reflection",
-        description: "Self-evaluation and final teaching demonstration.",
-        topics: ["Public Speaking", "Review"],
+        title: "Master-Level Leadership",
+        description: "Becoming the unshakeable teacher students respect for years.",
+        topics: ["Identity", "Systems"],
         color: "from-amber-500 to-orange-700",
     },
 ];
